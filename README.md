@@ -1,21 +1,29 @@
-# George Brown College - T187 Portfolio
-A centralized repository for my coursework, labs, and projects in the Computer Systems Technology program.
+# George Brown College (T187) - IT Portfolio
+Academic projects and professional lab documentation for the Computer Systems Technology program.
 
-## Overview
-This repository documents my academic progress and technical development at George Brown College (Started Jan 2024). It showcases my ability to implement enterprise-level IT solutions, manage cloud infrastructure, and apply ITIL frameworks.
+## 🎓 Academic Foundation
+- **Program**: T187 Computer Systems Technology
+- **Institution**: George Brown College
+- **Timeline**: January 2024 – Present
+- **Credential Focus**: CompTIA Security+ Certified (2025-2028)
 
-## Current & Completed Courses
-- **Cloud Computing**: Lab configurations and justifications for virtualized environments.
-- **ITIL Service Management**: Project documentation for service desk operations and MSP startups (e.g., Okami Network).
-- **Capstone Project**: End-to-end systems integration and deployment strategies.
-- **Advanced Networking**: CCNA-aligned lab configurations and packet tracer files.
+## 📁 Featured Coursework & Projects
 
-## Featured Project: Okami Network (ITIL)
-A solo presentation project simulating the startup of a Managed Service Provider (MSP).
-- **Key Hardware**: Focused on UniFi and Fortinet equipment.
-- **Core Goal**: Defining service levels, incident management, and change enablement protocols.
+### ITIL Service Management: "Okami Network Group"
+A comprehensive solo presentation project simulating the architecture and operations of a Managed Service Provider (MSP).
+- **Infrastructure**: Network design utilizing **Fortinet** and **UniFi** ecosystems.
+- **Service Design**: Developed protocols for Service Level Agreements (SLAs), Incident Management, and Change Enablement.
+- **Goal**: Demonstrating alignment between IT services and business needs for enterprise clients.
 
-## Technical Skills Demonstrated
-- **Virtualization**: Management and optimization of VMs for testing and development.
-- **Scripting**: Automation of administrative tasks using PowerShell and Batch.
-- **Documentation**: Professional technical writing and justification reports.
+### Cloud Computing & Virtualization
+- **VM Optimization**: Authored technical justifications for scaling virtual machines, specifically increasing CPU cores and storage (2TB SN850X) to support multi-VM environments.
+- **Resource Management**: Hands-on experience with VMware and Azure-based resource allocation for lab environments.
+
+### Advanced Networking
+- **CCNA Alignment**: Lab configurations and Packet Tracer topologies focusing on Layer 2/3 switching and routing.
+- **Compliance Research**: Analysis of Canadian network standards (**PIPEDA/PCI DSS**) for secure business infrastructure.
+
+## 🛠️ Technical Proficiencies
+- **OS**: Windows Server, Ubuntu Server (Raspberry Pi), Windows 10/11.
+- **Automation**: PowerShell and Batch scripting for administrative efficiency.
+- **Documentation**: Professional technical writing, justification reports, and system auditing.
